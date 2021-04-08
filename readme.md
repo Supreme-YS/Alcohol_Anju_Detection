@@ -2,9 +2,11 @@
 
 
 
-- Base: YOLOv5
+- Base Model : YOLOv5
 
-- Tool: PyCharm, Flask, PyTorch, 
+- Tool : PyCharm, Flask, PyTorch, AWS-EC2
+
+- Language : Python, JavaScript, Java Query
 
 - Datasets : 이미지 크롤링 활용 수집 술, 안주 image data
 
