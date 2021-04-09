@@ -1,2 +1,0 @@
-grilledmeat 0.54
-soju 0.88
