@@ -64,10 +64,3 @@
     glass_white_wine
     sake_pack
     liquor
-
-
-
-
-
-
-
