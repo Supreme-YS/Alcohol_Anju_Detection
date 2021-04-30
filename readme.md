@@ -11,7 +11,7 @@
 
 - Datasets : 이미지 크롤링 활용 수집 술, 안주 image data
 
-- 인식 가능 종류
+- 인식 가능 종류 (47 classes)
 
   - 안주
 
