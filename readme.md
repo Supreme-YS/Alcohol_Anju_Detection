@@ -5,7 +5,7 @@
 
 - Base Model : YOLOv5
 
-- Tool : PyCharm, Flask, PyTorch, AWS-EC2
+- Tool : PyCharm, Flask, PyTorch, AWS-EC2, Colab
 
 - Language : Python, JavaScript, Java Query
 
